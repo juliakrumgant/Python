@@ -1,6 +1,6 @@
 # Interventions des pompiers dans la ville de Montréal et dans la ville de Laval
 
-## 📋 Description
+## Description
 
 Ce projet analyse les données d'interventions des services de pompiers dans les villes de Montréal et de Laval. L'objectif est d'identifier des tendances pour aider les pompiers à mieux se préparer pour leurs éventuelles interventions.
 
@@ -12,7 +12,7 @@ Ce projet analyse les données d'interventions des services de pompiers dans les
 - Krumgant
 - Gabriel Mercier-Harnois
 
-## 🎯 Questions de recherche
+## Questions de recherche
 
 ### Ville de Montréal et de Laval:
 - Quels types d'incidents nécessitant l'intervention des pompiers sont les plus fréquents?
@@ -21,7 +21,7 @@ Ce projet analyse les données d'interventions des services de pompiers dans les
 ### Concentration sur la ville de Montréal:
 - Pour les types d'incidents qui varient selon le moment de l'année (ex: selon la saison), comme les feux de cheminée et les incidents nautiques, quel mois de l'année requiert davantage l'aide des pompiers?
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 Python-French-/
@@ -30,7 +30,7 @@ Python-French-/
 └── README.md                                # Ce fichier
 ```
 
-## 🔧 Technologies utilisées
+## Technologies utilisées
 
 - **Python 3**
 - **Pandas** - Manipulation et analyse de données
@@ -45,21 +45,7 @@ Le projet utilise des données CSV contenant des informations sur les interventi
 - Description du groupe
 - Caserne (station de pompiers)
 
-## 🚀 Utilisation
-
-1. Clonez ce dépôt:
-```bash
-git clone https://github.com/Julia11614/Python-French-.git
-```
-
-2. Ouvrez le notebook Jupyter:
-```bash
-jupyter notebook Projet-Incendie-Final-checkpoint.ipynb
-```
-
-3. Exécutez les cellules pour voir l'analyse
-
-## 📝 Méthodologie
+## Méthodologie
 
 ### Premières étapes:
 1. Lecture du contenu des fichiers CSV
